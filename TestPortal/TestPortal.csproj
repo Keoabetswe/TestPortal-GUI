@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{70902541-985C-4DF1-A3B0-EE45162371B4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TestPortal</RootNamespace>
+    <AssemblyName>TestPortal</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="LearnerLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LearnerLogin.Designer.cs">
+      <DependentUpon>LearnerLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LecturerLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LecturerLogin.Designer.cs">
+      <DependentUpon>LecturerLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Message.cs" />
+    <Compile Include="Student1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student1.Designer.cs">
+      <DependentUpon>Student1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student3.Designer.cs">
+      <DependentUpon>Student3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student2.Designer.cs">
+      <DependentUpon>Student2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentDetails.Designer.cs">
+      <DependentUpon>StudentDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentPortal1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentPortal1.Designer.cs">
+      <DependentUpon>StudentPortal1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentPortal2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentPortal2.Designer.cs">
+      <DependentUpon>StudentPortal2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentPortal3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentPortal3.Designer.cs">
+      <DependentUpon>StudentPortal3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestPortalDatabaseDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TestPortalDatabaseDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TestQ1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestQ1.Designer.cs">
+      <DependentUpon>TestQ1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestPortal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestPortal.Designer.cs">
+      <DependentUpon>TestPortal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LecturerOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LecturerOptions.Designer.cs">
+      <DependentUpon>LecturerOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestQ2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestQ2.Designer.cs">
+      <DependentUpon>TestQ2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestQ3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestQ3.Designer.cs">
+      <DependentUpon>TestQ3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestSetUp1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestSetUp1.Designer.cs">
+      <DependentUpon>TestSetUp1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestSetUp2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestSetUp2.Designer.cs">
+      <DependentUpon>TestSetUp2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestSetUp3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestSetUp3.Designer.cs">
+      <DependentUpon>TestSetUp3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewMarks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewMarks.Designer.cs">
+      <DependentUpon>ViewMarks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewMemo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewMemo.Designer.cs">
+      <DependentUpon>ViewMemo.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="LearnerLogin.resx">
+      <DependentUpon>LearnerLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LecturerLogin.resx">
+      <DependentUpon>LecturerLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LecturerOptions.resx">
+      <DependentUpon>LecturerOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student1.resx">
+      <DependentUpon>Student1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student3.resx">
+      <DependentUpon>Student3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student2.resx">
+      <DependentUpon>Student2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentDetails.resx">
+      <DependentUpon>StudentDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentPortal1.resx">
+      <DependentUpon>StudentPortal1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentPortal2.resx">
+      <DependentUpon>StudentPortal2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentPortal3.resx">
+      <DependentUpon>StudentPortal3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestQ1.resx">
+      <DependentUpon>TestQ1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestPortal.resx">
+      <DependentUpon>TestPortal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TestQ2.resx">
+      <DependentUpon>TestQ2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestQ3.resx">
+      <DependentUpon>TestQ3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestSetUp1.resx">
+      <DependentUpon>TestSetUp1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestSetUp2.resx">
+      <DependentUpon>TestSetUp2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestSetUp3.resx">
+      <DependentUpon>TestSetUp3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewMarks.resx">
+      <DependentUpon>ViewMarks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewMemo.resx">
+      <DependentUpon>ViewMemo.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="TestPortalDatabaseDataSet.xsc">
+      <DependentUpon>TestPortalDatabaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TestPortalDatabaseDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TestPortalDatabaseDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TestPortalDatabaseDataSet.xss">
+      <DependentUpon>TestPortalDatabaseDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Free-Online-Test-Series-EasyShiksha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TestPortalDatabase.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

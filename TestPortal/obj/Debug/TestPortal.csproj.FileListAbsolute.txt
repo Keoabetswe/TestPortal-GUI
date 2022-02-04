@@ -1,0 +1,168 @@
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\bin\Debug\TestPortal.exe.config
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\bin\Debug\TestPortal.exe
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\bin\Debug\TestPortal.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.Properties.Resources.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.csproj.GenerateResource.Cache
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.exe
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.LecturerOptions.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.TestPortal.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.ViewMarks.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.ViewMemo.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.StudentDetails.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.csprojResolveAssemblyReference.cache
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.TestSetUp2.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.TestSetUp3.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.TestQ2.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.TestQ3.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.TestQ1.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.Student1.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.Student2.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.Student3.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.StudentPortal1.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.StudentPortal2.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.StudentPortal3.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.LearnerLogin.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.LecturerLogin.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 -Assignment 1\TestPortal\TestPortal\obj\Debug\TestPortal.TestSetUp1.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\bin\Debug\TestPortal.exe.config
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.exe
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\bin\Debug\TestPortal.exe
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\bin\Debug\TestPortal.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.csprojResolveAssemblyReference.cache
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.LearnerLogin.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.LecturerLogin.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.LecturerOptions.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.Student1.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.Student3.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.Student2.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.StudentDetails.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.StudentPortal1.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.StudentPortal2.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.StudentPortal3.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.TestQ1.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.TestPortal.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.Properties.Resources.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.TestQ2.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.TestQ3.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.TestSetUp1.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.TestSetUp2.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.TestSetUp3.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.ViewMarks.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.ViewMemo.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.csproj.GenerateResource.Cache
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\back up1\13019459 - Assignment 3\TestPortal\TestPortal\bin\Debug\TestPortal.exe.config
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\back up1\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.exe
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\back up1\13019459 - Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\bin\Debug\TestPortal.exe.config
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.exe
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\bin\Debug\TestPortal.exe
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\bin\Debug\TestPortal.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.csprojResolveAssemblyReference.cache
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.LearnerLogin.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.LecturerLogin.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.LecturerOptions.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.Student1.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.Student3.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.Student2.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.StudentDetails.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.StudentPortal1.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.StudentPortal2.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.StudentPortal3.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestQ1.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestPortal.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.Properties.Resources.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestQ2.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestQ3.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestSetUp1.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestSetUp2.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestSetUp3.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.ViewMarks.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.ViewMemo.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\Assignment 3\Application\TestPortal\TestPortal\obj\Debug\TestPortal.csproj.GenerateResource.Cache
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\bin\Debug\TestPortal.exe.config
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.exe
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\bin\Debug\TestPortal.exe
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\bin\Debug\TestPortal.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.csprojResolveAssemblyReference.cache
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.LearnerLogin.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.LecturerLogin.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.LecturerOptions.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.Student1.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.Student3.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.Student2.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.StudentDetails.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.StudentPortal1.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.StudentPortal2.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.StudentPortal3.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestQ1.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestPortal.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.Properties.Resources.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestQ2.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestQ3.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestSetUp1.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestSetUp2.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestSetUp3.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.ViewMarks.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.ViewMemo.resources
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.csproj.GenerateResource.Cache
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Assignments\13019459 - POE\POE\Application\TestPortal\TestPortal\bin\Debug\TestPortalDatabase.accdb
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\bin\Debug\TestPortal.exe.config
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.exe
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.pdb
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.csprojResolveAssemblyReference.cache
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.LearnerLogin.resources
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.LecturerLogin.resources
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.LecturerOptions.resources
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.Student1.resources
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.Student3.resources
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.Student2.resources
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.StudentDetails.resources
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.StudentPortal1.resources
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.StudentPortal2.resources
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.StudentPortal3.resources
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestQ1.resources
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestPortal.resources
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.Properties.Resources.resources
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestQ2.resources
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestQ3.resources
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestSetUp1.resources
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestSetUp2.resources
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestSetUp3.resources
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.ViewMarks.resources
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.ViewMemo.resources
+C:\Users\KeoNt\AppData\Local\Microsoft\Windows\Burn\Burn\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.csproj.GenerateResource.Cache
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\bin\Debug\TestPortal.exe.config
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.exe
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.pdb
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\bin\Debug\TestPortal.exe.config
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.exe
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.pdb
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\bin\Debug\TestPortalDatabase.accdb
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\bin\Debug\TestPortal.exe
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\bin\Debug\TestPortal.pdb
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.csprojResolveAssemblyReference.cache
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.LearnerLogin.resources
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.LecturerLogin.resources
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.LecturerOptions.resources
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.Student1.resources
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.Student3.resources
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.Student2.resources
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.StudentDetails.resources
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.StudentPortal1.resources
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.StudentPortal2.resources
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.StudentPortal3.resources
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestQ1.resources
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestPortal.resources
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.Properties.Resources.resources
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestQ2.resources
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestQ3.resources
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestSetUp1.resources
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestSetUp2.resources
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.TestSetUp3.resources
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.ViewMarks.resources
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.ViewMemo.resources
+C:\Users\KeoNt\Documents\University\V.C\Year 2\PROG\Semester 1\Assignments (& poe)\13019459 - POE\POE\Application\TestPortal\TestPortal\obj\Debug\TestPortal.csproj.GenerateResource.Cache
